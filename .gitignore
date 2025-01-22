@@ -11,10 +11,8 @@ __pycache__/
 # Exclude logs and models
 logs/
 drl/drl_models/
-neural_networks/nn_logs
-neural_networks/nn_models
-
-
+neural_network/nn_logs/
+neural_network/nn_models/
 
 # Exclude data
 data/
