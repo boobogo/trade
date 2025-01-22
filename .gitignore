@@ -1,0 +1,21 @@
+# Exclude Python cache files
+__pycache__/
+*.pyc
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude environment files
+.env
+
+# Exclude logs and models
+logs/
+drl/drl_models/
+neural_networks/nn_logs/
+neural_networks/nn_models/
+
+
+
+# Exclude data
+data/
+
